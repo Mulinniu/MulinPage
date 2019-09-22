@@ -1,0 +1,124 @@
+
+html {
+  background: url(640214879.jpg) no-repeat center fixed;
+  background-size: cover;
+}
+
+.content{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+}
+.content{
+  color: silver;
+  font-size: 100px;
+}
+.br{
+  text-align: center;
+}
+.topnav {
+  overflow: auto;
+}
+
+.topnav a {
+  float: right;
+  display: block;
+  color: Pink;
+  text-align: center;
+  padding: 5px 20px;
+  text-decoration: none;
+  font-size: 17px;
+  border: 1px solid #fff;
+  transition: 0.6s ease;
+}
+
+.topnav a:hover {
+  background-color: pink;
+  color: pink;
+}
+
+
+.container {
+  text-align:center;
+  color: white;
+}
+
+
+.logo img{
+  float: left;
+  width: 150px;
+  height: auto;
+}
+.main{
+  max-width: 1200px;
+  margin: auto;
+}
+
+.button{
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform:translate(-50%,-50%);
+}
+
+.btn{
+  border: 1px solid #fff;
+  padding: 10px 30px;
+  color: #fff;
+  text-decoration: none;
+  transition: 0.6s ease;
+}
+
+.btn:hover{
+  background-color: #fff;
+  color: #000;
+}
+.contant{
+  color: White;
+  text-align: justify;
+}
+.container{
+  text-align: center;
+}
+.footer{
+  color: white;
+}
+.transbox{
+  margin:25px;
+  background-color:#ffffff;
+  border:1px solid black;
+  opacity:0.6;
+  filter:alpha(opacity=60);
+  text-align: justify;
+  
+}
+
+.transbox p {
+  margin:5%;
+  font-weight:bold;
+  color: #000000;
+  text-align: justify;
+}
+.col-6 {
+  text-align: center;
+  padding: 10px 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
