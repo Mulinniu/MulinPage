@@ -1,8 +1,5 @@
 
-html {
-  background: url(640214879.jpg) no-repeat center fixed;
-  background-size: cover;
-}
+
 
 .content{
   position: absolute;
@@ -26,7 +23,7 @@ html {
   display: block;
   color: Pink;
   text-align: center;
-  padding: 5px 20px;
+  padding: 5px ;
   text-decoration: none;
   font-size: 17px;
   border: 1px solid #fff;
